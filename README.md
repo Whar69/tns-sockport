@@ -1,3 +1,7 @@
+# i only have this here because my wifi was blocking the original github site for some reason
+
+
+
 # TNS Sockport
 
 An updated version of TotallyNotSpyware with sockport2 exploit and updated bootstrap.
