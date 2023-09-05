@@ -1,4 +1,4 @@
-# i only have this here because my wifi was blocking the original github site for some reason
+# i only have this here because my wifi was blocking the original jailbreak site for some reason
 
 
 
